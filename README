@@ -25,7 +25,7 @@
 :::success
 ## **Lung_Nodule_Segmentation**
 - **model**
-    - **Kangaro_mask_rcnn_trained_0711_2.h5**
+    - **Mask_rcnn_trained_0711_2.h5**
         - MaskRCNN模型
     - **model1.pkl**
         - 輸入'起始HU值'和'平均值'預測'標準差'之MLR模型
