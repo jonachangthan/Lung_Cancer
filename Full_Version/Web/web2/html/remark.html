@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>填寫備註</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="main.css">
+    <style>
+        html {
+            overflow-x: hidden;
+        }
+    </style>
+
+</head>
+
+<body style="background-color: rgb(253, 248, 232)">
+    <form method="POST" action="/lungPS">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label " style="font-weight: bold;">病人編號:</label>
+                    <input type="text" class="form-control " name="patientid" value="" id="exampleFormControlInput1"
+                        placeholder="ex:001">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label" style="font-weight: bold;">備註:</label>
+                    <input class="form-control" name="text" value="" id="exampleFormControlTextarea1"
+                        style="height: 100px" type="text" rows="3">
+                    <input class="btn btn-outline-primary" type="submit" value="送出">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <label for="exampleFormControlTextarea1" class="form-label" style="font-weight: bold;">搜尋某號病人備註:</label>
+                <input type="text" class="form-control " id="FormControlInput" value="" style="width:200px"
+                    placeholder="ex:001">
+                <button class="btn btn-outline-primary me-md-2" id="search" type="button">搜尋</button>
+            </div>
+        </div>
+    </form>
+    <div class="row">
+        <div class="col-md-12">
+            <br>
+            <div class="row">
+                <div class="col-md-12">
+                   
+                    <div id="ps">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="remark.js"></script>
+</body>

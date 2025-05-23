@@ -1,0 +1,54 @@
+.dicom -> .nrrd
+以tumor為單位 將其所有 .dicom(2維) 壓縮為 .nrrd(3維)
+將其對應的mask也轉為nrrd
+
+所有main tumor 共1316張
+invasion : 1196張 (90%)
+non-invasion : 120張 (10%)
+
+所有main tumor 共194顆
+invasion : 163顆 (84%)
+non-invasion : 31顆 (16%)
+
+nrrd file name: patientID_tumorNum_invasion(label).nrrd
+
+抓出約1400種特徵
+
+5-fold rf
+249
+Average Accuracy: 0.9124156545209177
+Total Confusion Matrix:
+[[ 20  11]
+ [  6 157]]
+wrong index
+[3, 6, 7, 9, 12, 17, 19, 21, 22, 23, 24, 26, 29, 29, 30, 35, 38]
+
+XGBoost
+
+3707
+Best Accuracy: 0.9074224021592443
+[13, 26, 29, 56, 95, 99, 100, 106, 111, 112, 122, 132, 135, 142, 145, 146, 150, 176, 193]
+
+6475
+[13, 26, 29, 44, 56, 99, 100, 106, 111, 112, 122, 132, 142, 145, 146, 150, 176, 193]
+
+voting
+572
+
+
+data balance
+SMOTE
+
+
+
+su data delete 023_1_1 028_1_1	031_1_0	145_8_1
+
+
+4123 .8789
+
+
+做smote 整理各方法比較 (不調整, down sampling, somte, su)
+
+在特徵選取完後，老師的方法基本上AUC和Specificity會高於SMOTE，而ACC和Sensitivity會低於SMOTE，也就是說用SMOTE訓練出來的模型會偏向猜invasion，而老師的模型較平衡
+
+

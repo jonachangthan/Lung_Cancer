@@ -1,0 +1,13619 @@
+
+patient 1:
+[image 63]
+coordinate_x: 110
+coordinate_y: 227
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 3:
+[image 36]
+coordinate_x: 168
+coordinate_y: 213
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 38]
+coordinate_x: 156
+coordinate_y: 312
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 23]
+coordinate_x: 328
+coordinate_y: 226
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 39]
+coordinate_x: 141
+coordinate_y: 241
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 7:
+[image 67]
+coordinate_x: 130
+coordinate_y: 214
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 40]
+coordinate_x: 333
+coordinate_y: 200
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 39]
+coordinate_x: 372
+coordinate_y: 260
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 45]
+coordinate_x: 134
+coordinate_y: 249
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 8:
+[image 71]
+coordinate_x: 361
+coordinate_y: 149
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 10:
+[image 33]
+coordinate_x: 207
+coordinate_y: 304
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 28]
+coordinate_x: 202
+coordinate_y: 303
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 29]
+coordinate_x: 364
+coordinate_y: 255
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 24]
+coordinate_x: 209
+coordinate_y: 321
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 19
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 300
+coordinate_y: 193
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 11:
+[image 54]
+coordinate_x: 356
+coordinate_y: 331
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 133
+coordinate_y: 218
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 62]
+coordinate_x: 142
+coordinate_y: 238
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 12:
+[image 26]
+coordinate_x: 173
+coordinate_y: 282
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 49]
+coordinate_x: 238
+coordinate_y: 144
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 13:
+[image 32]
+coordinate_x: 206
+coordinate_y: 272
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 53]
+coordinate_x: 201
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 28]
+coordinate_x: 361
+coordinate_y: 281
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 64]
+coordinate_x: 396
+coordinate_y: 247
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 72]
+coordinate_x: 322
+coordinate_y: 348
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 72]
+coordinate_x: 389
+coordinate_y: 253
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 87]
+coordinate_x: 351
+coordinate_y: 336
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+[image 93]
+coordinate_x: 197
+coordinate_y: 334
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 14:
+[image 50]
+coordinate_x: 254
+coordinate_y: 174
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 41]
+coordinate_x: 152
+coordinate_y: 226
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 15:
+[image 53]
+coordinate_x: 315
+coordinate_y: 327
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 16]
+coordinate_x: 337
+coordinate_y: 271
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 16:
+[image 53]
+coordinate_x: 341
+coordinate_y: 333
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 24]
+coordinate_x: 296
+coordinate_y: 292
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 38]
+coordinate_x: 326
+coordinate_y: 214
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 44]
+coordinate_x: 343
+coordinate_y: 325
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 51]
+coordinate_x: 138
+coordinate_y: 270
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 67]
+coordinate_x: 146
+coordinate_y: 220
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 18:
+[image 26]
+coordinate_x: 178
+coordinate_y: 286
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 19:
+[image 31]
+coordinate_x: 360
+coordinate_y: 315
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 42]
+coordinate_x: 350
+coordinate_y: 317
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 20:
+[image 51]
+coordinate_x: 160
+coordinate_y: 238
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 53]
+coordinate_x: 140
+coordinate_y: 335
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 54]
+coordinate_x: 370
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 21:
+[image 31]
+coordinate_x: 367
+coordinate_y: 254
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 41]
+coordinate_x: 144
+coordinate_y: 222
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 51]
+coordinate_x: 205
+coordinate_y: 342
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 66]
+coordinate_x: 140
+coordinate_y: 218
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 22:
+[image 49]
+coordinate_x: 187
+coordinate_y: 160
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 29]
+coordinate_x: 196
+coordinate_y: 294
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 38]
+coordinate_x: 175
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 57]
+coordinate_x: 128
+coordinate_y: 233
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 65]
+coordinate_x: 199
+coordinate_y: 208
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 51]
+coordinate_x: 330
+coordinate_y: 166
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 62]
+coordinate_x: 234
+coordinate_y: 282
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 81]
+coordinate_x: 404
+coordinate_y: 224
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+[image 53]
+coordinate_x: 363
+coordinate_y: 271
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 82]
+coordinate_x: 412
+coordinate_y: 216
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 23:
+[image 51]
+coordinate_x: 113
+coordinate_y: 234
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 20]
+coordinate_x: 186
+coordinate_y: 281
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 28]
+coordinate_x: 368
+coordinate_y: 288
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 83]
+coordinate_x: 352
+coordinate_y: 160
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 46]
+coordinate_x: 130
+coordinate_y: 212
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 24:
+[image 60]
+coordinate_x: 364
+coordinate_y: 279
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 38]
+coordinate_x: 205
+coordinate_y: 184
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 41]
+coordinate_x: 361
+coordinate_y: 234
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 67]
+coordinate_x: 344
+coordinate_y: 242
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 90]
+coordinate_x: 370
+coordinate_y: 297
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 25:
+[image 42]
+coordinate_x: 210
+coordinate_y: 240
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 26:
+[image 38]
+coordinate_x: 320
+coordinate_y: 227
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 27:
+[image 32]
+coordinate_x: 190
+coordinate_y: 147
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 90]
+coordinate_x: 205
+coordinate_y: 246
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 28:
+[image 30]
+coordinate_x: 358
+coordinate_y: 318
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 123
+coordinate_y: 300
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 29:
+[image 34]
+coordinate_x: 322
+coordinate_y: 169
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 74]
+coordinate_x: 374
+coordinate_y: 228
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 54]
+coordinate_x: 419
+coordinate_y: 245
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 31:
+[image 35]
+coordinate_x: 119
+coordinate_y: 228
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 362
+coordinate_y: 247
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 44]
+coordinate_x: 114
+coordinate_y: 262
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 49]
+coordinate_x: 359
+coordinate_y: 264
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 69]
+coordinate_x: 372
+coordinate_y: 277
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 76]
+coordinate_x: 90
+coordinate_y: 214
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 32:
+[image 26]
+coordinate_x: 185
+coordinate_y: 208
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 19]
+coordinate_x: 164
+coordinate_y: 271
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 36]
+coordinate_x: 126
+coordinate_y: 235
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 33:
+[image 70]
+coordinate_x: 168
+coordinate_y: 328
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 34:
+[image 40]
+coordinate_x: 146
+coordinate_y: 316
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 46]
+coordinate_x: 106
+coordinate_y: 301
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 76]
+coordinate_x: 396
+coordinate_y: 237
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 35:
+[image 33]
+coordinate_x: 170
+coordinate_y: 237
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 61]
+coordinate_x: 370
+coordinate_y: 322
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 36:
+[image 30]
+coordinate_x: 147
+coordinate_y: 191
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 29]
+coordinate_x: 159
+coordinate_y: 244
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 321
+coordinate_y: 307
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 35]
+coordinate_x: 364
+coordinate_y: 243
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 42]
+coordinate_x: 374
+coordinate_y: 266
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 73]
+coordinate_x: 136
+coordinate_y: 144
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 73]
+coordinate_x: 356
+coordinate_y: 230
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 62]
+coordinate_x: 134
+coordinate_y: 232
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 38:
+[image 48]
+coordinate_x: 372
+coordinate_y: 291
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 23]
+coordinate_x: 180
+coordinate_y: 265
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 39:
+[image 37]
+coordinate_x: 171
+coordinate_y: 252
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 40]
+coordinate_x: 133
+coordinate_y: 220
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 40:
+[image 56]
+coordinate_x: 191
+coordinate_y: 273
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 41:
+[image 43]
+coordinate_x: 136
+coordinate_y: 229
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 42:
+[image 22]
+coordinate_x: 371
+coordinate_y: 236
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 22]
+coordinate_x: 158
+coordinate_y: 292
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 25]
+coordinate_x: 238
+coordinate_y: 294
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 43:
+[image 37]
+coordinate_x: 373
+coordinate_y: 272
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 44:
+[image 77]
+coordinate_x: 144
+coordinate_y: 229
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 158
+coordinate_y: 244
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 40]
+coordinate_x: 407
+coordinate_y: 277
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 44]
+coordinate_x: 192
+coordinate_y: 200
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 46]
+coordinate_x: 333
+coordinate_y: 208
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 50]
+coordinate_x: 343
+coordinate_y: 268
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 50]
+coordinate_x: 159
+coordinate_y: 224
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 62]
+coordinate_x: 163
+coordinate_y: 291
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 70]
+coordinate_x: 378
+coordinate_y: 325
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 45:
+[image 51]
+coordinate_x: 131
+coordinate_y: 294
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 46:
+[image 41]
+coordinate_x: 373
+coordinate_y: 226
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 47:
+[image 50]
+coordinate_x: 412
+coordinate_y: 234
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 48:
+[image 62]
+coordinate_x: 163
+coordinate_y: 320
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 49:
+[image 57]
+coordinate_x: 160
+coordinate_y: 325
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 53]
+coordinate_x: 176
+coordinate_y: 158
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 44]
+coordinate_x: 277
+coordinate_y: 169
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 50:
+[image 25]
+coordinate_x: 331
+coordinate_y: 310
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 51:
+[image 34]
+coordinate_x: 352
+coordinate_y: 286
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 35]
+coordinate_x: 308
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 49]
+coordinate_x: 126
+coordinate_y: 182
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 37]
+coordinate_x: 190
+coordinate_y: 321
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 44]
+coordinate_x: 366
+coordinate_y: 199
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 52:
+[image 79]
+coordinate_x: 212
+coordinate_y: 240
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 53:
+[image 45]
+coordinate_x: 154
+coordinate_y: 268
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 54:
+[image 25]
+coordinate_x: 158
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 22]
+coordinate_x: 294
+coordinate_y: 339
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 339
+coordinate_y: 252
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 50]
+coordinate_x: 156
+coordinate_y: 332
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 55:
+[image 62]
+coordinate_x: 386
+coordinate_y: 340
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 33]
+coordinate_x: 336
+coordinate_y: 206
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 56:
+[image 42]
+coordinate_x: 378
+coordinate_y: 341
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 57:
+[image 44]
+coordinate_x: 354
+coordinate_y: 338
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 58:
+[image 50]
+coordinate_x: 347
+coordinate_y: 340
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 388
+coordinate_y: 264
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 23]
+coordinate_x: 154
+coordinate_y: 284
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 23]
+coordinate_x: 192
+coordinate_y: 240
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 40]
+coordinate_x: 215
+coordinate_y: 292
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 41]
+coordinate_x: 162
+coordinate_y: 364
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 42]
+coordinate_x: 155
+coordinate_y: 318
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 67]
+coordinate_x: 99
+coordinate_y: 312
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 44]
+coordinate_x: 378
+coordinate_y: 321
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 71]
+coordinate_x: 391
+coordinate_y: 339
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 56]
+coordinate_x: 414
+coordinate_y: 293
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 59:
+[image 53]
+coordinate_x: 360
+coordinate_y: 270
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 27]
+coordinate_x: 327
+coordinate_y: 306
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 32]
+coordinate_x: 350
+coordinate_y: 303
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 372
+coordinate_y: 312
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 67]
+coordinate_x: 391
+coordinate_y: 184
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 60:
+[image 69]
+coordinate_x: 142
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 61:
+[image 35]
+coordinate_x: 160
+coordinate_y: 291
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 66]
+coordinate_x: 150
+coordinate_y: 270
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 64]
+coordinate_x: 373
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 62:
+[image 43]
+coordinate_x: 380
+coordinate_y: 242
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 63:
+[image 48]
+coordinate_x: 200
+coordinate_y: 331
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 72]
+coordinate_x: 204
+coordinate_y: 158
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 67]
+coordinate_x: 198
+coordinate_y: 320
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 67]
+coordinate_x: 170
+coordinate_y: 154
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 88]
+coordinate_x: 90
+coordinate_y: 206
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 64:
+[image 68]
+coordinate_x: 168
+coordinate_y: 306
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 65:
+[image 71]
+coordinate_x: 152
+coordinate_y: 229
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 19
+
+--- In Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 18]
+coordinate_x: 199
+coordinate_y: 315
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 66:
+[image 28]
+coordinate_x: 309
+coordinate_y: 297
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 146
+coordinate_y: 316
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 58]
+coordinate_x: 380
+coordinate_y: 300
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 68:
+[image 64]
+coordinate_x: 155
+coordinate_y: 269
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 69:
+[image 60]
+coordinate_x: 352
+coordinate_y: 309
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 42]
+coordinate_x: 126
+coordinate_y: 214
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 37]
+coordinate_x: 226
+coordinate_y: 318
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 222
+coordinate_y: 338
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 70:
+[image 49]
+coordinate_x: 136
+coordinate_y: 327
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 71:
+[image 85]
+coordinate_x: 405
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 71]
+coordinate_x: 366
+coordinate_y: 252
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 32]
+coordinate_x: 300
+coordinate_y: 215
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 332
+coordinate_y: 179
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 57]
+coordinate_x: 394
+coordinate_y: 206
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 72:
+[image 66]
+coordinate_x: 364
+coordinate_y: 341
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 161
+coordinate_y: 300
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 47]
+coordinate_x: 364
+coordinate_y: 283
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 73:
+[image 42]
+coordinate_x: 128
+coordinate_y: 260
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 74:
+[image 41]
+coordinate_x: 123
+coordinate_y: 252
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 48]
+coordinate_x: 139
+coordinate_y: 189
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 75:
+[image 20]
+coordinate_x: 356
+coordinate_y: 250
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 18]
+coordinate_x: 317
+coordinate_y: 237
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 22]
+coordinate_x: 139
+coordinate_y: 218
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 28]
+coordinate_x: 178
+coordinate_y: 296
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 33]
+coordinate_x: 136
+coordinate_y: 268
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 138
+coordinate_y: 182
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 50]
+coordinate_x: 341
+coordinate_y: 271
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 59]
+coordinate_x: 218
+coordinate_y: 299
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 77:
+[image 51]
+coordinate_x: 374
+coordinate_y: 294
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 22]
+coordinate_x: 186
+coordinate_y: 246
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 26]
+coordinate_x: 159
+coordinate_y: 199
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 78:
+[image 42]
+coordinate_x: 172
+coordinate_y: 178
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 61]
+coordinate_x: 134
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 80:
+[image 76]
+coordinate_x: 189
+coordinate_y: 175
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 82:
+[image 77]
+coordinate_x: 340
+coordinate_y: 322
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 83:
+[image 46]
+coordinate_x: 145
+coordinate_y: 199
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 36]
+coordinate_x: 146
+coordinate_y: 210
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 84:
+[image 33]
+coordinate_x: 299
+coordinate_y: 256
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 85:
+[image 47]
+coordinate_x: 371
+coordinate_y: 328
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 55]
+coordinate_x: 129
+coordinate_y: 258
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 86:
+[image 79]
+coordinate_x: 378
+coordinate_y: 297
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 87:
+[image 93]
+coordinate_x: 340
+coordinate_y: 373
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 19
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 88:
+[image 71]
+coordinate_x: 312
+coordinate_y: 316
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 20]
+coordinate_x: 332
+coordinate_y: 256
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 89:
+[image 80]
+coordinate_x: 178
+coordinate_y: 250
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 90:
+[image 80]
+coordinate_x: 110
+coordinate_y: 210
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 91:
+[image 28]
+coordinate_x: 363
+coordinate_y: 250
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 92:
+[image 49]
+coordinate_x: 364
+coordinate_y: 254
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 63]
+coordinate_x: 136
+coordinate_y: 288
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 93:
+[image 25]
+coordinate_x: 174
+coordinate_y: 314
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 68]
+coordinate_x: 407
+coordinate_y: 266
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 94:
+[image 60]
+coordinate_x: 162
+coordinate_y: 197
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 95:
+[image 57]
+coordinate_x: 129
+coordinate_y: 238
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 96:
+[image 29]
+coordinate_x: 344
+coordinate_y: 290
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 170
+coordinate_y: 285
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 66]
+coordinate_x: 149
+coordinate_y: 185
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 97:
+[image 32]
+coordinate_x: 196
+coordinate_y: 320
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 42]
+coordinate_x: 384
+coordinate_y: 244
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 99:
+[image 51]
+coordinate_x: 117
+coordinate_y: 228
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 100:
+[image 65]
+coordinate_x: 378
+coordinate_y: 306
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 101:
+[image 35]
+coordinate_x: 346
+coordinate_y: 258
+--- In Lung mask ---
+[ 0 ]
+radius: 19
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 184
+coordinate_y: 338
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 102:
+[image 33]
+coordinate_x: 322
+coordinate_y: 198
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 103:
+[image 28]
+coordinate_x: 183
+coordinate_y: 271
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 104:
+[image 50]
+coordinate_x: 374
+coordinate_y: 337
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 71]
+coordinate_x: 386
+coordinate_y: 340
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 85]
+coordinate_x: 335
+coordinate_y: 362
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 105:
+[image 27]
+coordinate_x: 349
+coordinate_y: 248
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 33]
+coordinate_x: 160
+coordinate_y: 239
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 56]
+coordinate_x: 103
+coordinate_y: 259
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 30]
+coordinate_x: 198
+coordinate_y: 259
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 106:
+[image 67]
+coordinate_x: 134
+coordinate_y: 200
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 61]
+coordinate_x: 232
+coordinate_y: 323
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 77]
+coordinate_x: 296
+coordinate_y: 288
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 61]
+coordinate_x: 383
+coordinate_y: 256
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 107:
+[image 23]
+coordinate_x: 129
+coordinate_y: 262
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 108:
+[image 25]
+coordinate_x: 381
+coordinate_y: 247
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 41]
+coordinate_x: 184
+coordinate_y: 310
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 72]
+coordinate_x: 177
+coordinate_y: 324
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 109:
+[image 77]
+coordinate_x: 353
+coordinate_y: 297
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 81]
+coordinate_x: 415
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 78]
+coordinate_x: 104
+coordinate_y: 229
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 26]
+coordinate_x: 211
+coordinate_y: 298
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 195
+coordinate_y: 196
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 110:
+[image 19]
+coordinate_x: 303
+coordinate_y: 282
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 111:
+[image 58]
+coordinate_x: 202
+coordinate_y: 316
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 29]
+coordinate_x: 354
+coordinate_y: 312
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 20]
+coordinate_x: 186
+coordinate_y: 311
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 62]
+coordinate_x: 120
+coordinate_y: 230
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 112:
+[image 37]
+coordinate_x: 158
+coordinate_y: 291
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 113:
+[image 40]
+coordinate_x: 192
+coordinate_y: 292
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 114:
+[image 67]
+coordinate_x: 365
+coordinate_y: 343
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 26]
+coordinate_x: 163
+coordinate_y: 262
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 115:
+[image 31]
+coordinate_x: 158
+coordinate_y: 308
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 116:
+[image 67]
+coordinate_x: 122
+coordinate_y: 296
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 117:
+[image 16]
+coordinate_x: 326
+coordinate_y: 292
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 19]
+coordinate_x: 170
+coordinate_y: 270
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 24]
+coordinate_x: 391
+coordinate_y: 304
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 118:
+[image 24]
+coordinate_x: 329
+coordinate_y: 216
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 119:
+[image 35]
+coordinate_x: 361
+coordinate_y: 228
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 120:
+[image 70]
+coordinate_x: 393
+coordinate_y: 316
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 20]
+coordinate_x: 188
+coordinate_y: 294
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 121:
+[image 67]
+coordinate_x: 212
+coordinate_y: 284
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 122:
+[image 37]
+coordinate_x: 171
+coordinate_y: 218
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 123:
+[image 60]
+coordinate_x: 385
+coordinate_y: 278
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 97]
+coordinate_x: 132
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 98]
+coordinate_x: 130
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 124:
+[image 53]
+coordinate_x: 203
+coordinate_y: 312
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 23]
+coordinate_x: 311
+coordinate_y: 287
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 29]
+coordinate_x: 306
+coordinate_y: 284
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 36]
+coordinate_x: 184
+coordinate_y: 210
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 125:
+[image 52]
+coordinate_x: 388
+coordinate_y: 240
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 126:
+[image 51]
+coordinate_x: 155
+coordinate_y: 260
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 75]
+coordinate_x: 182
+coordinate_y: 183
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+
+patient 127:
+[image 96]
+coordinate_x: 106
+coordinate_y: 280
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 54]
+coordinate_x: 354
+coordinate_y: 274
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 128:
+[image 23]
+coordinate_x: 174
+coordinate_y: 236
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 22]
+coordinate_x: 141
+coordinate_y: 246
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 25]
+coordinate_x: 146
+coordinate_y: 229
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 33]
+coordinate_x: 347
+coordinate_y: 283
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 33]
+coordinate_x: 150
+coordinate_y: 155
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 30]
+coordinate_x: 252
+coordinate_y: 169
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 47]
+coordinate_x: 172
+coordinate_y: 330
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 129:
+[image 36]
+coordinate_x: 157
+coordinate_y: 275
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 36]
+coordinate_x: 241
+coordinate_y: 279
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 130:
+[image 16]
+coordinate_x: 283
+coordinate_y: 305
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 347
+coordinate_y: 308
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 131:
+[image 62]
+coordinate_x: 125
+coordinate_y: 226
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 132:
+[image 33]
+coordinate_x: 236
+coordinate_y: 288
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 38]
+coordinate_x: 326
+coordinate_y: 194
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 47]
+coordinate_x: 307
+coordinate_y: 378
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 91]
+coordinate_x: 401
+coordinate_y: 310
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 133:
+[image 30]
+coordinate_x: 165
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 134:
+[image 27]
+coordinate_x: 164
+coordinate_y: 216
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 135:
+[image 70]
+coordinate_x: 150
+coordinate_y: 317
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 388
+coordinate_y: 258
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 36]
+coordinate_x: 122
+coordinate_y: 303
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 136:
+[image 44]
+coordinate_x: 186
+coordinate_y: 285
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 51]
+coordinate_x: 153
+coordinate_y: 258
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 137:
+[image 35]
+coordinate_x: 222
+coordinate_y: 269
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 42]
+coordinate_x: 126
+coordinate_y: 277
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 47]
+coordinate_x: 96
+coordinate_y: 198
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 53]
+coordinate_x: 164
+coordinate_y: 217
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 55]
+coordinate_x: 382
+coordinate_y: 301
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 63]
+coordinate_x: 159
+coordinate_y: 181
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 64]
+coordinate_x: 152
+coordinate_y: 98
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 138:
+[image 53]
+coordinate_x: 352
+coordinate_y: 261
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 139:
+[image 35]
+coordinate_x: 148
+coordinate_y: 285
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 35]
+coordinate_x: 395
+coordinate_y: 261
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 37]
+coordinate_x: 401
+coordinate_y: 264
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 38]
+coordinate_x: 389
+coordinate_y: 264
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 54]
+coordinate_x: 367
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 60]
+coordinate_x: 162
+coordinate_y: 288
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 140:
+[image 44]
+coordinate_x: 119
+coordinate_y: 282
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 1 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 141:
+[image 58]
+coordinate_x: 224
+coordinate_y: 304
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 68]
+coordinate_x: 172
+coordinate_y: 290
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 142:
+[image 39]
+coordinate_x: 210
+coordinate_y: 250
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 144:
+[image 25]
+coordinate_x: 160
+coordinate_y: 220
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 45]
+coordinate_x: 218
+coordinate_y: 99
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 63]
+coordinate_x: 292
+coordinate_y: 312
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 63]
+coordinate_x: 122
+coordinate_y: 306
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 77]
+coordinate_x: 408
+coordinate_y: 237
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 81]
+coordinate_x: 90
+coordinate_y: 215
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 145:
+[image 75]
+coordinate_x: 342
+coordinate_y: 375
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 216
+coordinate_y: 301
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 36]
+coordinate_x: 177
+coordinate_y: 331
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 41]
+coordinate_x: 212
+coordinate_y: 328
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 47]
+coordinate_x: 114
+coordinate_y: 259
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 369
+coordinate_y: 322
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 64]
+coordinate_x: 106
+coordinate_y: 254
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 72]
+coordinate_x: 114
+coordinate_y: 247
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 146:
+[image 21]
+coordinate_x: 186
+coordinate_y: 254
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 158
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 39]
+coordinate_x: 172
+coordinate_y: 247
+--- In Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 147:
+[image 19]
+coordinate_x: 120
+coordinate_y: 306
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 32]
+coordinate_x: 360
+coordinate_y: 232
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 60]
+coordinate_x: 120
+coordinate_y: 214
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 148:
+[image 38]
+coordinate_x: 147
+coordinate_y: 254
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 149:
+[image 28]
+coordinate_x: 350
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 150:
+[image 40]
+coordinate_x: 116
+coordinate_y: 298
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 151:
+[image 31]
+coordinate_x: 371
+coordinate_y: 208
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 30]
+coordinate_x: 355
+coordinate_y: 219
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 38]
+coordinate_x: 212
+coordinate_y: 179
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 20]
+coordinate_x: 174
+coordinate_y: 260
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 26]
+coordinate_x: 333
+coordinate_y: 294
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 363
+coordinate_y: 187
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 61]
+coordinate_x: 154
+coordinate_y: 165
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 62]
+coordinate_x: 185
+coordinate_y: 148
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 71]
+coordinate_x: 111
+coordinate_y: 222
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 72]
+coordinate_x: 141
+coordinate_y: 231
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 71]
+coordinate_x: 191
+coordinate_y: 306
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 153:
+[image 30]
+coordinate_x: 151
+coordinate_y: 249
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 23]
+coordinate_x: 297
+coordinate_y: 313
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 22]
+coordinate_x: 167
+coordinate_y: 286
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 25]
+coordinate_x: 345
+coordinate_y: 267
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 40]
+coordinate_x: 129
+coordinate_y: 281
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 41]
+coordinate_x: 331
+coordinate_y: 210
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 50]
+coordinate_x: 157
+coordinate_y: 178
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 61]
+coordinate_x: 375
+coordinate_y: 266
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 69]
+coordinate_x: 380
+coordinate_y: 271
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 80]
+coordinate_x: 367
+coordinate_y: 321
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 154:
+[image 28]
+coordinate_x: 350
+coordinate_y: 301
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 155:
+[image 53]
+coordinate_x: 349
+coordinate_y: 366
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 156:
+[image 41]
+coordinate_x: 144
+coordinate_y: 230
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 8
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 27]
+coordinate_x: 219
+coordinate_y: 305
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 158:
+[image 56]
+coordinate_x: 195
+coordinate_y: 156
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 29]
+coordinate_x: 167
+coordinate_y: 309
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 35]
+coordinate_x: 163
+coordinate_y: 304
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 159:
+[image 47]
+coordinate_x: 135
+coordinate_y: 207
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 42]
+coordinate_x: 151
+coordinate_y: 212
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 109]
+coordinate_x: 430
+coordinate_y: 212
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 160:
+[image 16]
+coordinate_x: 171
+coordinate_y: 242
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 20]
+coordinate_x: 160
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 161:
+[image 80]
+coordinate_x: 363
+coordinate_y: 235
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 162:
+[image 34]
+coordinate_x: 153
+coordinate_y: 236
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 163:
+[image 38]
+coordinate_x: 159
+coordinate_y: 208
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 164:
+[image 46]
+coordinate_x: 151
+coordinate_y: 290
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 42]
+coordinate_x: 118
+coordinate_y: 274
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 165:
+[image 42]
+coordinate_x: 363
+coordinate_y: 271
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 80]
+coordinate_x: 389
+coordinate_y: 217
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 92]
+coordinate_x: 246
+coordinate_y: 305
+--- Not in Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 6
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+
+patient 166:
+[image 104]
+coordinate_x: 101
+coordinate_y: 198
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 70]
+coordinate_x: 106
+coordinate_y: 200
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 37]
+coordinate_x: 179
+coordinate_y: 256
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 48]
+coordinate_x: 388
+coordinate_y: 255
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 51]
+coordinate_x: 395
+coordinate_y: 254
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 100]
+coordinate_x: 393
+coordinate_y: 156
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 167:
+[image 36]
+coordinate_x: 359
+coordinate_y: 218
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 146
+coordinate_y: 337
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 47]
+coordinate_x: 151
+coordinate_y: 280
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 48]
+coordinate_x: 372
+coordinate_y: 301
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 55]
+coordinate_x: 391
+coordinate_y: 284
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 77]
+coordinate_x: 404
+coordinate_y: 217
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 168:
+[image 43]
+coordinate_x: 366
+coordinate_y: 336
+--- Not in Lung mask ---
+[ 0 ]
+radius: 19
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 149
+coordinate_y: 344
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 138
+coordinate_y: 304
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 59]
+coordinate_x: 161
+coordinate_y: 206
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 170:
+[image 29]
+coordinate_x: 373
+coordinate_y: 275
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 21]
+coordinate_x: 320
+coordinate_y: 256
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 30]
+coordinate_x: 164
+coordinate_y: 259
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 76]
+coordinate_x: 411
+coordinate_y: 273
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 171:
+[image 41]
+coordinate_x: 178
+coordinate_y: 334
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 192
+coordinate_y: 222
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 45]
+coordinate_x: 205
+coordinate_y: 159
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 57]
+coordinate_x: 104
+coordinate_y: 253
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 64]
+coordinate_x: 410
+coordinate_y: 277
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 172:
+[image 78]
+coordinate_x: 152
+coordinate_y: 317
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 37]
+coordinate_x: 144
+coordinate_y: 295
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 5
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 18
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 173:
+[image 38]
+coordinate_x: 122
+coordinate_y: 234
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 25]
+coordinate_x: 218
+coordinate_y: 284
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 35]
+coordinate_x: 337
+coordinate_y: 276
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 45]
+coordinate_x: 386
+coordinate_y: 252
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 174:
+[image 31]
+coordinate_x: 378
+coordinate_y: 301
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 175:
+[image 65]
+coordinate_x: 351
+coordinate_y: 225
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 12
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 176:
+[image 41]
+coordinate_x: 149
+coordinate_y: 245
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 145
+coordinate_y: 289
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 35]
+coordinate_x: 187
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 178:
+[image 71]
+coordinate_x: 101
+coordinate_y: 236
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 28]
+coordinate_x: 110
+coordinate_y: 246
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 18]
+coordinate_x: 138
+coordinate_y: 265
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 179:
+[image 29]
+coordinate_x: 128
+coordinate_y: 299
+--- In Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 24]
+coordinate_x: 295
+coordinate_y: 324
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 20]
+coordinate_x: 310
+coordinate_y: 310
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 71]
+coordinate_x: 327
+coordinate_y: 311
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 180:
+[image 45]
+coordinate_x: 402
+coordinate_y: 213
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 29]
+coordinate_x: 360
+coordinate_y: 182
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 57]
+coordinate_x: 176
+coordinate_y: 135
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 61]
+coordinate_x: 127
+coordinate_y: 173
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 55]
+coordinate_x: 90
+coordinate_y: 271
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 181:
+[image 29]
+coordinate_x: 312
+coordinate_y: 207
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 83]
+coordinate_x: 412
+coordinate_y: 316
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 184:
+[image 39]
+coordinate_x: 368
+coordinate_y: 236
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 185:
+[image 52]
+coordinate_x: 177
+coordinate_y: 249
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 19
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 186:
+[image 87]
+coordinate_x: 162
+coordinate_y: 304
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 16]
+coordinate_x: 358
+coordinate_y: 235
+--- Not in Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 19]
+coordinate_x: 152
+coordinate_y: 220
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 23]
+coordinate_x: 156
+coordinate_y: 269
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 66]
+coordinate_x: 103
+coordinate_y: 274
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 70]
+coordinate_x: 415
+coordinate_y: 262
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 187:
+[image 40]
+coordinate_x: 127
+coordinate_y: 322
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 16
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 18]
+coordinate_x: 169
+coordinate_y: 293
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 0 ]
+radius: 9
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 31]
+coordinate_x: 165
+coordinate_y: 335
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 54]
+coordinate_x: 167
+coordinate_y: 408
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 48]
+coordinate_x: 379
+coordinate_y: 324
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 49]
+coordinate_x: 392
+coordinate_y: 215
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 188:
+[image 63]
+coordinate_x: 154
+coordinate_y: 232
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 62]
+coordinate_x: 382
+coordinate_y: 254
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 18]
+coordinate_x: 187
+coordinate_y: 290
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 49]
+coordinate_x: 178
+coordinate_y: 168
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 47]
+coordinate_x: 146
+coordinate_y: 162
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 179
+coordinate_y: 170
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 46]
+coordinate_x: 186
+coordinate_y: 168
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 189:
+[image 31]
+coordinate_x: 162
+coordinate_y: 246
+--- Not in Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 190:
+[image 23]
+coordinate_x: 310
+coordinate_y: 245
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 1 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 3
+
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 63]
+coordinate_x: 181
+coordinate_y: 132
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 191:
+[image 39]
+coordinate_x: 328
+coordinate_y: 319
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 34]
+coordinate_x: 387
+coordinate_y: 229
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 45]
+coordinate_x: 394
+coordinate_y: 248
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 43]
+coordinate_x: 398
+coordinate_y: 261
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 192:
+[image 64]
+coordinate_x: 368
+coordinate_y: 326
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 40]
+coordinate_x: 160
+coordinate_y: 288
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 53]
+coordinate_x: 151
+coordinate_y: 202
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 58]
+coordinate_x: 114
+coordinate_y: 237
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 193:
+[image 45]
+coordinate_x: 343
+coordinate_y: 335
+--- Not in Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 194:
+[image 55]
+coordinate_x: 182
+coordinate_y: 292
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 195:
+[image 48]
+coordinate_x: 344
+coordinate_y: 218
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 12
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 33]
+coordinate_x: 143
+coordinate_y: 285
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 32]
+coordinate_x: 151
+coordinate_y: 298
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 44]
+coordinate_x: 116
+coordinate_y: 257
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 196:
+[image 46]
+coordinate_x: 354
+coordinate_y: 291
+--- In Lung mask ---
+[ 0 ]
+radius: 16
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 15
+
+--- In Lung mask ---
+[ 0 ]
+radius: 17
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 8
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+
+patient 197:
+[image 43]
+coordinate_x: 378
+coordinate_y: 226
+--- In Lung mask ---
+[ 0 ]
+radius: 10
+
+--- In Lung mask ---
+[ 0 ]
+radius: 9
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 198:
+[image 36]
+coordinate_x: 176
+coordinate_y: 219
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 11
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 199:
+[image 55]
+coordinate_x: 140
+coordinate_y: 279
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 4
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+[image 59]
+coordinate_x: 119
+coordinate_y: 276
+--- In Lung mask ---
+[ 1 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***
+
+patient 200:
+[image 60]
+coordinate_x: 305
+coordinate_y: 263
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 5
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 3
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 11
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 15
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 14
+
+--- Not in Lung mask ---
+[ 0 ]
+radius: 13
+
+--- In Lung mask ---
+[ 0 ]
+radius: 19
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 0 ]
+radius: 7
+
+--- In Lung mask ---
+[ 0 ]
+radius: 6
+
+--- In Lung mask ---
+[ 2 ]
+*** Not found! ***

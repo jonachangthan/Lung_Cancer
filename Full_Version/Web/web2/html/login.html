@@ -1,0 +1,110 @@
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <title>登入頁面</title>
+  <link rel="stylesheet" href="themify-icons.css">
+  <style>
+    * {
+      font-family: 微軟正黑體;
+    }
+
+    h3,
+    #username,
+    #password {
+      width: 400px;
+      height: 40px;
+      margin: 15px;
+      color: #c2b179;
+    }
+
+    h5 {
+      margin: 20px;
+      color: #a3a2a3;
+    }
+
+    h5:hover {
+      color: black;
+    }
+
+    #container {
+      margin: 50px;
+      padding: 10px;
+      width: 460px;
+      height: 380px;
+      background-color: white;
+      border-radius: 5px;
+      border-top: 25px solid #c2b179;
+      box-shadow: 0 0px 70px rgba(0, 0, 0, 0.1);
+
+      /*定位對齊*/
+      position: relative;
+      margin: auto;
+      top: 100px;
+      text-align: center;
+    }
+
+    .system_name {
+      /*定位對齊*/
+      position: relative;
+      margin: auto;
+      top: 100px;
+      text-align: center;
+    }
+
+    .submit {
+      color: white;
+      background: #c2b179;
+      width: 200px;
+      height: 30px;
+      margin: 10px;
+      padding: 5px;
+      border-radius: 5px;
+      border: 0px;
+    }
+
+    .submit:hover {
+      background: #907313;
+    }
+
+    input {
+      padding: 5px;
+      border: none;
+      border: solid 1px #ccc;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body style=" background-repeat:no-repeat ;
+
+background-size:100% 100%; 
+
+background-attachment: fixed;backdrop-filter:blur(3px);   " background='l.jpg'>
+  <div class="system_name">
+    <h2 style="color: rgb(0, 0, 0);">智慧化醫療標註輔助系統</h2>
+  </div>
+
+  <div class="login_page">
+    <div id="container">
+      <div class="Login">
+        <center><h3 class="ti-user"> Login</h3></center>
+        <form method="POST" action="/login" >
+          <input type="text" id="username" name="username" placeholder="帳號" required="required"
+            oninvalid="setCustomValidity('請輸入帳號！')" oninput="setCustomValidity('')">
+          <div class="tab"></div>
+          <input type="password" id="password" name="password" placeholder="密碼" required="required"
+            oninvalid="setCustomValidity('請輸入密碼！')" oninput="setCustomValidity('')">
+          <div class="tab"></div>
+          <input type="submit" value="登入" class="submit" />
+        </form>
+        
+      </div>
+
+    </div>
+  </div>
+
+</body>
+
+</html>

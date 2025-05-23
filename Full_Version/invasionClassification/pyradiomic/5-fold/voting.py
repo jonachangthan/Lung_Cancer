@@ -1,0 +1,77 @@
+import pandas as pd
+import numpy as np
+from sklearn.utils import shuffle
+from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
+from xgboost import XGBClassifier
+from sklearn.model_selection import StratifiedKFold
+from sklearn.metrics import accuracy_score, confusion_matrix
+from sklearn.ensemble import VotingClassifier
+import random
+
+num = random.random()
+num = int(num * 1000)
+# num = 363
+print(num)
+
+# Read the CSV file into a pandas DataFrame
+df = pd.read_csv('pyradiomic/features.csv')
+
+# Separate the features (X) and labels (y)
+X = df.iloc[:, 24:]
+y = df['nrrd_filename'].str[-6].astype(int)
+
+# Create a list to store the accuracy and confusion matrices for each fold
+accuracy_scores = []
+confusion_matrices = []
+
+# Perform stratified k-fold cross-validation
+skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=num)
+for train_index, test_index in skf.split(X, y):
+    # Get the training and testing data for the current fold
+    X_train, X_test = X.iloc[train_index], X.iloc[test_index]
+    y_train, y_test = y.iloc[train_index], y.iloc[test_index]
+
+    # Train the individual classifiers
+    svm_clf = SVC(random_state=num)
+    rf_clf = RandomForestClassifier(random_state=num)
+    xgb_clf = XGBClassifier(random_state=num)
+
+    # Create the voting ensemble classifier
+    voting_clf = VotingClassifier(
+        estimators=[('svm', svm_clf), ('rf', rf_clf), ('xgb', xgb_clf)],
+        voting='hard'
+    )
+
+    # Fit the ensemble classifier on the training data
+    voting_clf.fit(X_train, y_train)
+
+    # Predict labels for the test data
+    y_pred = voting_clf.predict(X_test)
+
+    # Calculate the accuracy score
+    accuracy = accuracy_score(y_test, y_pred)
+
+    # Calculate the confusion matrix
+    confusion = confusion_matrix(y_test, y_pred)
+
+    # Append the accuracy score and confusion matrix to the respective lists
+    accuracy_scores.append(accuracy)
+    confusion_matrices.append(confusion)
+
+    # Print the accuracy and confusion matrix for the current fold
+    print(f"Fold Accuracy: {accuracy}")
+    print(f"Fold Confusion Matrix:")
+    print(confusion)
+    print("-----------------------------------")
+
+# Calculate the average accuracy across all folds
+average_accuracy = np.mean(accuracy_scores)
+
+# Concatenate the confusion matrices for all folds
+total_confusion_matrix = np.sum(confusion_matrices, axis=0)
+
+# Print the average accuracy and total confusion matrix
+print("Average Accuracy:", average_accuracy)
+print("Total Confusion Matrix:")
+print(total_confusion_matrix)

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>侵襲性與非侵襲性辨識</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script
+    src="https://use.fontawesome.com/releases/v6.1.0/js/all.js"
+    crossorigin="anonymous"
+  ></script>
+  <!-- Google fonts-->
+  <link
+    href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+    rel="stylesheet"
+    type="text/css"
+  />
+    <link rel="stylesheet" href="main.css">
+    <style type="text/css" id="style">
+    </style>
+        <!-- Styles -->
+        <link rel="stylesheet" href="style.css">
+</head>
+
+<body style="background-color: rgb(255, 255, 255)">
+    <div class="hero-content6">
+        <header class="site-header">
+            <div class="nav-bar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-9 col-lg-3">
+                            <div class="site-branding">
+                                <h3 class="site-title"><a href="home.html" rel="home" style="font-size: 27px;">智慧化 <span>醫療標註輔助系統</span></a></h3>
+                            </div><!-- .site-branding -->
+                        </div><!-- .col -->
+
+                        <div class="col-3 col-lg-9 flex justify-content-end align-content-center">
+                            <nav class="site-navigation flex justify-content-end align-items-center">   
+                                <a href="home.html"><button class="btn-57" type="button">返回首頁</button></a>                
+                            </nav><!-- .site-navigation -->
+                        </div><!-- .col -->
+                    </div><!-- .row -->
+                </div><!-- .container -->
+            </div><!-- .nav-bar -->
+            <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        </header><!-- .site-header -->
+
+        <div class="hero-content-overlay">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="hero-content-wrap flex flex-column justify-content-center align-items-start">
+                            <header class="entry-header">
+                                <!-- <h4>Get started with our functions</h4> -->
+                                <h1>侵襲性與非侵襲性辨識 <a href="https://youtu.be/NYmjR1L0Row" target="_blank" style="color:#FFFFCC;font-size: 35px;">功能示範影片</a></h1>
+                            </header><!-- .entry-header -->
+
+                            <div class="entry-content">
+                                <p><span style="background-color: rgb(150, 111, 61);">線上辨識腫瘤系統說明 : </span><b>步驟1</b> : 上傳一位病人之欲辨識腫瘤的所有dicom <b>步驟2</b> : 上傳對應之腫瘤遮罩png並且確保張數相同 <b>步驟3</b> : 點擊[開始辨識]以瀏覽辨識結果</p>
+                                <p><span style="background-color: rgb(168, 143, 111);">供醫生之範例資料 : </span><a href="invasion.txt"  style="color:#FFFFCC;" download> 操作說明</a>、<a href="SampleDataInvasion.zip"  style="color:#FFFFCC;" download> 範例資料一(侵襲性)</a>、<a href="SampleDataNoninvasion.zip"  style="color:#FFFFCC" download>範例資料二(非侵襲性)</a></p>
+                                <p> 解決資料不平衡之四個方法 : 1.Imbalanced Data Classification 2.Proposed 3.SMOTE 4.Down Sampling (結果如下) </p>
+                            </div><!-- .entry-content -->
+
+                            <footer class="entry-footer read-more">
+                                <a href="onlineInvasion.html" style="font-weight: bold;font-size: 18px;" >線上辨識腫瘤系統</a>
+                            </footer><!-- .entry-footer -->
+                            
+                        </div><!-- .hero-content-wrap -->
+                    </div><!-- .col -->
+                </div><!-- .row -->
+            </div><!-- .container -->
+        </div><!-- .hero-content-hero-content-overlay -->
+    </div><!-- .hero-content -->
+
+    <main id="browse">
+        <div class="container">
+          <div style="background-color: rgb(242, 232, 191); height: 38px">
+            <h1 class="text-center mt-5" style="color: black; font-size: 38px">
+              Measure
+            </h1>
+          </div>
+          <hr style="color: black" />
+          <div class="row justify-content-center">
+            <div class="col-md-8">
+                <img src="1.png" class="img-fluid" />     
+            </div>
+          </div>
+
+        </div>
+  
+        <div class="container">
+          <div style="background-color: rgb(242, 232, 191); height: 38px">
+            <h1 class="text-center mt-5" style="color: black; font-size: 38px">
+                Overall Comparisons
+            </h1>
+          </div>
+          <hr style="color: black" />
+          <div class="row">
+            <div class="col-md-5">
+              <p class="lead" style="color: black">
+                <br>
+                <ul style="font-size: 20px; background-color: rgb(246, 241, 222);">
+                    <li><strong>Invasion :</strong> 160人</li><br>
+                    <li><strong>Non-invasion :</strong> 30人</li><br>
+                    <li><strong>Using radiomics to extract the features of each tumor</strong></li><br>
+                    <li><strong>Under the same 5-fold cross-validation structure</strong> </li><br> 
+                    <li><strong>Using the same 300 selected features</strong></li><br>
+                    <li><strong>Classifier : </strong>RF</li><br>
+                  </ul>  
+              </p>
+            </div>
+            <div class="col-md-7">
+              <img src="2.png" class="img-fluid" />
+            </div>
+          </div>
+        </div>         
+
+        <div class="container">
+            <div style="background-color: rgb(255, 245, 205); height: 38px">
+              <h1 class="text-center mt-5" style="color: black; font-size: 38px">
+                (方法一) Imbalanced Data Classification
+              </h1>
+            </div>
+            <hr style="color: black" />
+            <div class="row justify-content-center" >
+              <div class="col-md-3">
+                <p class="lead" style="color: black">
+                  <ul style="font-size: 20px; background-color: rgb(246, 241, 222);">
+                    
+                      <li><strong>Accuracy : </strong>0.9 </li><br>
+                      <li><strong>AUC : </strong>0.791</li><br>
+                      <li><strong>Sensitivity :</strong> 0.95</li><br>
+                      <li><strong>Specificity : </strong>0.633</li><br>
+                    </ul>  
+                </p>
+              </div>
+              <div class="col-md-5">
+                <img src="3.png" class="img-fluid" />
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div style="background-color: rgb(255, 245, 205); height: 38px">
+              <h1 class="text-center mt-5" style="color: black; font-size: 38px">
+                (方法二) Proposed
+              </h1>
+            </div>
+            <hr style="color: black" />
+            <div class="row justify-content-center" >
+              <div class="col-md-3">
+                <p class="lead" style="color: black">
+
+                  <ul style="font-size: 20px;background-color: rgb(246, 241, 222)">
+                      <li><strong>Accuracy :</strong> 0.894</li><br>
+                      <li><strong>AUC : </strong>0.856</li><br>
+                      <li><strong>Sensitivity :</strong> 0.912</li><br>
+                      <li><strong>Specificity :</strong> 0.8</li><br>
+                    </ul>  
+                </p>
+              </div>
+              <div class="col-md-5">
+                <img src="4.png" class="img-fluid" />
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div style="background-color: rgb(255, 245, 205); height: 38px">
+              <h1 class="text-center mt-5" style="color: black; font-size: 38px">
+                (方法三) SMOTE
+              </h1>
+            </div>
+            <hr style="color: black" />
+            <div class="row justify-content-center" >
+              <div class="col-md-3">
+                <p class="lead" style="color: black">
+            
+                  <ul style="font-size: 20px;background-color: rgb(246, 241, 222);">
+                      <li><strong>Accuracy :</strong> 0.894</li><br>
+                      <li><strong>AUC :</strong> 0.815</li><br>
+                      <li><strong>Sensitivity : </strong>0.931</li><br>
+                      <li><strong>Specificity :</strong> 0.7</li><br>
+                    </ul>  
+                </p>
+              </div>
+              <div class="col-md-5">
+                <img src="5.png" class="img-fluid" />
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div style="background-color: rgb(255, 245, 205); height: 38px">
+              <h1 class="text-center mt-5" style="color: black; font-size: 38px">
+                (方法四) Down Sampling
+              </h1>
+            </div>
+            <hr style="color: black" />
+            <div class="row justify-content-center" >
+              <div class="col-md-3">
+                <p class="lead" style="color: black">
+         
+                  <ul style="font-size: 20px;background-color: rgb(246, 241, 222)">
+                      <li><strong>Accuracy :</strong> 0.889</li><br>
+                      <li><strong>AUC :</strong> 0.853</li><br>
+                      <li><strong>Sensitivity :</strong> 0.906</li><br>
+                      <li><strong>Specificity : </strong>0.8</li><br>
+
+                    </ul>  
+                </p>
+              </div>
+              <div class="col-md-5">
+                <img src="6.png" class="img-fluid" />
+              </div>
+            </div>
+          </div>
+      
+          <div class="footer-widgets">
+            <div class="container" >                
+                <div class="row">
+                 
+                                
+                </div><!-- .row -->
+            </div><!-- .container -->
+        </div><!-- .footer-widgets -->
+        
+      </main>
+      <a href="#top" class="top top-link" style="float: right;display: none;color: rgb(0, 0, 0);" id="up"><i  style="width: 50px;height: 50px;"class="fa-regular fa-circle-up"></i></a>
+    <script>
+        function scrollToBottom() {
+            window.location.hash = "#browse";
+        }
+        var up = document.getElementById("up")
+
+// 置頂按鈕顯示
+window.onscroll=function(){
+    var srcTop=(document.body.scrollTop|| document.documentElement.scrollTop);
+    if(srcTop>=200){
+        up.style.display='block'
+    }
+    else{
+        up.style.display='none'
+    }
+}
+    </script>
+    <script>
+        var scrollBar = document.getElementById("style")
+        scrollBar.innerText =
+      `body {
+        overflow-x:hidden;
+        }`
+    </script>
+</body>

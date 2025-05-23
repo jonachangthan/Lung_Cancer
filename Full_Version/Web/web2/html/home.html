@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>智慧化醫療標註輔助系統</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <!-- FontAwesome CSS -->
+    <link rel="stylesheet" href="font-awesome.min.css">
+    <!-- themify-icons CSS -->
+    <link rel="stylesheet" href="themify-icons.css">
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hero-content">
+        <header class="site-header">
+           
+            <div class="nav-bar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-9 col-lg-3">
+                            <div class="site-branding">
+                                <h3 class="site-title"> <a href="home.html" rel="home" style="font-size: 21px;">Medical <span>annotation system</span></a></h3>
+                            </div><!-- .site-branding -->
+                        </div><!-- .col -->
+
+                        <div class="col-3 col-lg-9 flex justify-content-end align-content-center">
+                            <nav class="site-navigation flex justify-content-end align-items-center">                    
+                                    <form method="POST" action="/logout">
+                                        <button class="btn-97" type="submit">登出</button>
+                                    </form>                                 
+                            </nav><!-- .site-navigation -->
+                        </div><!-- .col -->
+                    </div><!-- .row -->
+                </div><!-- .container -->
+            </div><!-- .nav-bar -->
+            <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        </header><!-- .site-header -->
+
+        <div class="hero-content-overlay">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="hero-content-wrap flex flex-column justify-content-center align-items-start">
+                            <header class="entry-header">
+                                <!-- <h4>Get started with our functions</h4> -->
+                                <h1>智慧化<br/>醫療標註輔助系統</h1>
+                            </header><!-- .entry-header -->
+
+                            <div class="entry-content">
+                                <p>本計畫開發一個「智慧化醫療標記輔助系統」，因為病人肺癌圖片當中，並沒有標記肺癌位置，因此本計畫先開發一個平台，請醫師協助標記結節位置後，再透過標記的答案，作為模型訓練的答案基礎。</p>
+                            </div><!-- .entry-content -->
+
+                            <footer class="entry-footer read-more">
+                                <a onclick="scrollToBottom()" >Use functions</a>
+                            </footer>
+                        </div><!-- .hero-content-wrap -->
+                    </div><!-- .col -->
+                </div><!-- .row -->
+            </div><!-- .container -->
+        </div><!-- .hero-content-hero-content-overlay -->
+    </div><!-- .hero-content -->
+
+    <div class="icon-boxes">
+        <div class="container-fluid">
+            <div class="flex flex-wrap align-items-stretch"  id="function">
+                <div class="icon-box">
+                    <div class="icon">
+                        <span class="ti-hand-point-up"></span>
+                    </div><!-- .icon -->
+
+                    <header class="entry-header">
+                        <h2 class="entry-title" style="font-weight: bold;">點選結節</h2>
+                    </header><!-- .entry-header -->
+
+                    <div class="entry-content">
+                        <p>醫師可在左邊橫切面影像中點選肺結節，並可利用滑動滑鼠滾輪來快速切換左邊畫面中同一位病患的各張CT橫切面影像。操作醫師在結節處點擊滑鼠左鍵兩下後，下方欄位即會顯示出患者編號、結節的X、Y、Z座標，且通過下拉式選單即可選擇標註該結節的類型。</p>
+                    </div><!-- .entry-content -->
+
+                    <footer class="entry-footer read-more">
+                        <a href="index.html" style="font-size:15px;text-decoration:underline;text-decoration-thickness: 3px;" >enter the page<i class="fa fa-long-arrow-right" style="font-size:15px"></i></a>
+                    </footer><!-- .entry-footer -->
+                </div><!-- .icon-box -->
+
+                <div class="icon-box">
+                    <div class="icon">
+                        <span class="ti-folder"></span>
+                    </div><!-- .icon -->
+
+                    <header class="entry-header">
+                        <h2 class="entry-title"  style="font-weight: bold;">瀏覽結果</h2>
+                    </header><!-- .entry-header -->
+
+                    <div class="entry-content">
+                        <p>提供醫師確認每一位病人結節所圈選位置，可透過點擊按鈕，跳轉至相對應CT圖片以及刪除鍵可讓使用者快速刪除照片，醫生也可以按下修改鍵，立即修正結節種類，並提供備註區域以利醫師提供該病人其他相關資料及訊息。</p>
+                    </div><!-- .entry-content -->
+
+                    <footer class="entry-footer read-more">
+                        <a href="browse.html" style="font-size:15px;text-decoration:underline;text-decoration-thickness: 3px">enter the page<i class="fa fa-long-arrow-right" style="font-size:15px"></i></a>
+                    </footer><!-- .entry-footer -->
+                </div><!-- .icon-box -->
+            
+                <div class="icon-box">
+                    <div class="icon">
+                        <span class="ti-target"></span>
+                    </div><!-- .icon -->
+
+                    <header class="entry-header">
+                        <h2 class="entry-title"  style="font-weight: bold;">肺部切割</h2>
+                    </header><!-- .entry-header -->
+
+                    <div class="entry-content">
+                        <p>醫生可透過此功能修正病人的肺臟及結節位置後。系統會自動生成此病人所有圖片中的肺臟結節。左邊為該病人之橫切面原圖，中間為切割肺部的結果，右邊為切割結果與原圖合併的樣子。醫生可以利用滑鼠框出肺部區域遺漏的部分，框完後，下方即會顯示病人編號、張數、起點和終點座標。送出後可以在下方的瀏覽結果瀏覽是否正確，並提供刪除鍵刪除資訊。</p>
+                    </div><!-- .entry-content -->
+
+                    <footer class="entry-footer read-more">
+                        <a href="lungpicture.html" style="font-size:15px;text-decoration:underline;text-decoration-thickness: 3px">enter the page<i class="fa fa-long-arrow-right"  style="font-size:15px"></i></a>
+                    </footer><!-- .entry-footer -->
+                </div><!-- .icon-box -->
+                
+                <div class="icon-box">
+                    <div class="icon">
+                        <span class="ti-check"></span>
+                    </div><!-- .icon -->
+
+                    <header class="entry-header">
+                        <h2 class="entry-title"  style="font-weight: bold;">確認遮罩</h2>
+                    </header><!-- .entry-header -->
+
+                    <div class="entry-content">
+                        <p>醫師可透過「確認遮罩」功能，將系統自動生成結節的結果，發現有系統標記錯誤處，進行相關說明及註解，系統即可透過模型修正，修正自動標記肺部結節功能之模型。</p>
+                    </div><!-- .entry-content -->
+
+                    <footer class="entry-footer read-more">
+                        <a href="maskPicBtn.html" style="font-size:15px;text-decoration:underline;text-decoration-thickness: 3px">enter the page<i class="fa fa-long-arrow-right" style="font-size:15px"></i></a>
+                    </footer><!-- .entry-footer -->
+                </div><!-- .icon-box -->
+                <div class="icon-box">
+                    <div class="icon">
+                        <span class="ti-user"></span>
+                    </div><!-- .icon -->
+
+                    <header class="entry-header">
+                        <h2 class="entry-title"  style="font-weight: bold;">上傳病人</h2>
+                    </header><!-- .entry-header -->
+
+                    <div class="entry-content">
+                        <p>透過「上傳病人」功能，醫師可上傳肺部相關圖片包含橫切面照、全身照之dicom檔、文字報告、及病人編號，系統即可進行肺部及肺部結節自動標記功能，並將相關的文字報告做圖片及病理報告對應。</p>
+                    </div><!-- .entry-content -->
+
+                    <footer class="entry-footer read-more">
+                        <a href="lungpictureOnline.html" style="font-size:15px;text-decoration:underline;text-decoration-thickness: 3px">enter the page<i class="fa fa-long-arrow-right"  style="font-size:15px"></i></a>
+                    </footer><!-- .entry-footer -->
+                </div><!-- .icon-box -->
+                <div class="icon-box">
+                    <div class="icon">
+                        <span class="ti-image"></span>
+                    </div><!-- .icon -->
+
+                    <header class="entry-header">
+                        <h2 class="entry-title"  style="font-weight: bold;">半自動生成遮罩</h2>
+                    </header><!-- .entry-header -->
+
+                    <div class="entry-content">
+                        <p>透過「半自動生成遮罩」功能，醫生上傳橫切面之dicom檔後，系統會自動生成png並顯示在網頁上。當滑鼠移入圖片後，照片會自動放大，以利醫師圈選腫瘤。接著在腫瘤處點擊滑鼠兩下獲取座標後，會在右方的欄位顯示座標資訊，送出座標後，系統即會生成肺部與腫瘤遮罩。</p>
+                    </div><!-- .entry-content -->
+
+                    <footer class="entry-footer read-more">
+                        <a href="produceMask.html" style="font-size:15px;text-decoration:underline;text-decoration-thickness: 3px">enter the page<i class="fa fa-long-arrow-right"  style="font-size:15px"></i></a>
+                    </footer><!-- .entry-footer -->
+                </div><!-- .icon-box -->
+                <div class="icon-box">
+                    <div class="icon">
+                        <span class="ti-pencil-alt"></span>
+                    </div><!-- .icon -->
+
+                    <header class="entry-header">
+                        <h2 class="entry-title"  style="font-weight: bold;">侵襲性與非侵襲性辨識</h2>
+                    </header><!-- .entry-header -->
+
+                    <div class="entry-content">
+                        <p>由於資料不平衡的緣故，此部分使用了四個方法來解決此問題，分別有 <strong>1. </strong>Imbalanced Data Classification <strong>2. </strong>Proposed <strong>3. </strong>SMOTE <strong>4. </strong>Down Sampling 並搭配Random forest classifier 來預測腫瘤類型。除此之外，也提供了線上上傳dicom檔來辨別腫瘤之侵襲或非侵襲性的功能。</p>
+                    </div><!-- .entry-content -->
+
+                    <footer class="entry-footer read-more">
+                        <a href="pyradiomics.html" style="font-size:15px;text-decoration:underline;text-decoration-thickness: 3px">enter the page<i class="fa fa-long-arrow-right"  style="font-size:15px"></i></a>
+                    </footer><!-- .entry-footer -->
+                </div><!-- .icon-box -->
+            </div><!-- .row -->
+        </div><!-- .container-fluid -->
+    </div><!-- .icon-boxes -->
+
+
+    <footer class="site-footer">
+        <div class="footer-widgets">
+            <div class="container">
+                <div class="row">              
+                </div><!-- .row -->
+            </div><!-- .container -->
+        </div><!-- .footer-widgets -->
+
+        <div class="footer-bar">
+            <div class="container">
+                <div class="row flex-wrap justify-content-center justify-content-lg-between align-items-center">
+                    <div class="col-12 col-lg-6">
+                    </div>
+                    <div class="col-12 col-lg-6 mt-4 mt-lg-0">
+                        <div class="footer-bar-nav">
+                            <ul class="flex flex-wrap justify-content-center justify-content-lg-end align-items-center">
+                                <li class="ti-world"></li>
+                                <li ><a href="#">Terms of Use</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script>
+    function scrollToBottom() {
+        window.location.hash = "#function";
+    }
+</script>
+</body>
+</html>
