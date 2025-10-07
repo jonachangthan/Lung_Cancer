@@ -9,15 +9,15 @@
 
 | 模組 | 說明 |
 |------|------|
-| 🔴 **ResUNet** | 半監督式肺部影像分割模型 (訓練與評估) |
-| 🟡 **Lung_Segmentation** | 預測肺部區域，結合 UNet 與 ResUNet 模型 |
-| 🟢 **Lung_Nodule_Segmentation** | 肺結節偵測與動態閾值分割 |
-| 🔵 **Invasiveness_Recognition** | 特徵擷取、特徵選取與侵襲性預測模型 (BEED 方法) |
-| ⚙️ **Full_Version** | 整合所有模組之版本 (部分資料已移除) |
+|  **ResUNet** | 半監督式肺部影像分割模型 (訓練與評估) |
+|  **Lung_Segmentation** | 預測肺部區域，結合 UNet 與 ResUNet 模型 |
+|  **Lung_Nodule_Segmentation** | 肺結節偵測與動態閾值分割 |
+|  **Invasiveness_Recognition** | 特徵擷取、特徵選取與侵襲性預測模型 (BEED 方法) |
+|  **Full_Version** | 整合所有模組之版本 (部分資料已移除) |
 
 ---
 
-## 🔴 ResUNet
+##  ResUNet
 > 半監督式學習架構，用於肺部影像分割。
 
 | 檔案 | 功能說明 |
@@ -29,7 +29,7 @@
 
 ---
 
-## 🟡 Lung_Segmentation
+##  Lung_Segmentation
 > 使用兩階段模型預測肺部區域，結合影像處理與深度學習。
 
 | 檔案 | 功能說明 |
@@ -40,11 +40,11 @@
 
 ---
 
-## 🟢 Lung_Nodule_Segmentation
+##  Lung_Nodule_Segmentation
 > 偵測並分割肺結節區域，結合 Mask R-CNN 與動態閾值法進行強化辨識。
 
 <details>
-<summary>📦 模型</summary>
+<summary> 模型</summary>
 
 | 檔案 | 功能說明 |
 |------|-----------|
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary>📂 其他檔案</summary>
+<summary> 其他檔案</summary>
 
 | 檔案 | 功能說明 |
 |------|-----------|
@@ -69,7 +69,7 @@
 
 ---
 
-## 🔵 Invasiveness_Recognition
+##  Invasiveness_Recognition
 > 利用擷取的影像特徵進行侵襲性腫瘤辨識，採用 **BEED (Balanced Ensemble for Extreme Data Imbalance)** 方法處理不平衡資料問題。
 
 | 檔案 | 功能說明 |
@@ -80,7 +80,7 @@
 
 ---
 
-## ⚙️ Full_Version
+##  Full_Version
 
 此資料夾為完整系統版本，包含：
 - Web 平台與數據分析工具  
@@ -91,7 +91,7 @@
 
 ---
 
-## 🧠 系統流程概述
+##  系統流程概述
 
 ```mermaid
 graph TD
@@ -105,7 +105,7 @@ F --> G[結果輸出與評估]
 
 ---
 
-## 📊 評估指標
+##  評估指標
 
 - **Dice Coefficient**
 - **Recall**
@@ -114,7 +114,7 @@ F --> G[結果輸出與評估]
 
 ---
 
-## 💡 技術摘要
+##  技術摘要
 
 | 模組 | 模型/方法 |
 |------|------------|
@@ -125,7 +125,7 @@ F --> G[結果輸出與評估]
 
 ---
 
-## 🧩 環境需求
+##  環境需求
 
 ```bash
 Python >= 3.8
@@ -140,7 +140,7 @@ matplotlib
 
 ---
 
-## 🧪 執行流程範例
+##  執行流程範例
 
 ```bash
 # Step 1: 預處理影像
