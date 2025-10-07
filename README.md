@@ -142,7 +142,8 @@ python Lung_Nodule_Segmentation_final.py
 # Step 4: 特徵擷取與分類
 python getfeature.py
 python fea_sel.py
-python proposed_pro_wei.py
+
+# Step 5: 執行web
 ```
 
 ---
