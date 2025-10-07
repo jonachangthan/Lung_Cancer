@@ -44,7 +44,7 @@
 > 偵測並分割肺結節區域，結合 Mask R-CNN 與動態閾值法進行強化辨識。
 
 <details>
-<summary>📦 模型</summary>
+<summary> 模型</summary>
 
 | 檔案 | 功能說明 |
 |------|-----------|
@@ -127,7 +127,7 @@ matplotlib
 
 ---
 
-## 🧪 執行流程範例
+##  執行流程範例
 
 ```bash
 # Step 1: 預處理影像
