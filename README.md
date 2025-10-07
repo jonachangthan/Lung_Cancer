@@ -131,17 +131,12 @@ matplotlib
 
 ```bash
 # Step 1: 預處理影像
-python medical_image_preprocessing.py
 
 # Step 2: 肺部分割
-python Lung_Segmentation_final.py
 
 # Step 3: 結節偵測與分割
-python Lung_Nodule_Segmentation_final.py
 
 # Step 4: 特徵擷取與分類
-python getfeature.py
-python fea_sel.py
 
 # Step 5: 執行web
 ```
