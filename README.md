@@ -147,6 +147,7 @@ python proposed_pro_wei.py
 
 ---
 詳細內容在 biomedicines-11-02938-v3.pdf
+
 簡報: 以半監督式學習技術為基礎之智慧型侵襲性肺腫瘤辨識系統 .pptx
 
 ---
